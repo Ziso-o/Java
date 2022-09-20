@@ -3,4 +3,4 @@
 # Each java files are step to the next level of coding skills not only java but also other programming languages.
 
 # For those who see my java and codes, thank you for seeing that. I would love to get feedbacks.
-# Once you want to use my code, I want you to comment where it belongs to.
+# Once you want to use my code, I want you to comment.
